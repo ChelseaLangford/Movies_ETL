@@ -27,4 +27,4 @@ The purprose of this project was to practice the extract, transform, and load pr
 - Next, I wrote a function to import the rows within the dataframe and print out the progress and runtime
 - Once the import was complete, I queried the new tables in PgAdmin to confirm the full data set was imported
 
-<b>See ETL_create_database.ipynb for the code as well as the movies_query.png and ratings_query.png for the SQL queries in pgAdmin</b>
+<b>See ETL_create_database.ipynb for the code as well as the movies_query.png and ratings_query.png for the SQL queries/b>
